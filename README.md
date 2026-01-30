@@ -1,6 +1,5 @@
-. Methodology
+* Methodology*
 The project follows a structured data analytics workflow:
-
 1. Data Acquisition: The dataset is downloaded from Kaggle using the Kaggle API.
 2. Data Loading: The CSV file is loaded using Pandas.
 3. Data Cleaning: Missing values are handled using replacement strategies. Duplicates are removed, and invalid ADR values are filtered out.
